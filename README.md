@@ -21,12 +21,12 @@ Receive new Flickr images by clicking on **New Collection**  button.
 No problem, add new images by clicking on **add to collection**  button and upload the image from the album or take one using the camera, add some comment if needed then save the new image.
 
 ### Screenshots
-![Navigate map](https://www.flickr.com/photos/186295620@N02/49372826352/in/dateposted-public/)
-![delete pins ](https://www.flickr.com/photos/186295620@N02/49372623981/in/dateposted-public/)
-![check pin images](https://www.flickr.com/photos/186295620@N02/49372624241/in/dateposted-public/)
-![add image to the pin collection](https://www.flickr.com/photos/186295620@N02/49372624041/in/dateposted-public/)
 
-![create meme image for the pin collection](https://www.flickr.com/photos/186295620@N02/49372826287/in/dateposted-public/)
+
+
+
+
+
 ### Application Requirements
 - IOS 11.0 or higher
 - SWIFT 5
